@@ -18,14 +18,6 @@ and I am working hard to continue to develop and grow. 🧗‍♂️
 </p>
 <br/>
 
-## 💻 DEV's Blog 💻
-
-<p><a href="https://limseongjang.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/tistory-000000?style=for-the-badge&logo=tistory&logoColor=white"/></a></p>
-
-[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=limseongjang&theme=default&postId=136)](https://limseongjang.tistory.com)
-
-[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=limseongjang&theme=default&postId=138)](https://limseongjang.tistory.com)
-
 ## 💪 Skills 💪
 
 #### Platforms & Languages
