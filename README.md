@@ -14,7 +14,7 @@ and I am working hard to continue to develop and grow. 🧗‍♂️
 ## 📞 Contact 📞
 
 <p>
-  <a href="mailto:damadu01@gmail.com" target="_blank"><img src="https://img.shields.io/badge/damadu01@gmail.com-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
+  <a href="mailto:guno133@naver.com" target="_blank"><img src="https://img.shields.io/badge/guno133@naver.com-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
 </p>
 <br/>
 
@@ -57,7 +57,7 @@ and I am working hard to continue to develop and grow. 🧗‍♂️
 
 <br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seongholim-11&layout=donut)](https://github.com/seongholim-11/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sin-still&layout=donut)](https://github.com/sin-still/github-readme-stats)
 
 <br/>
 <br/>
