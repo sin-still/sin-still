@@ -3,7 +3,7 @@
 ## 🤞 Nice way to meet me
 
 <p>
-  👋&nbsp; Hi there!  I'm a <strong>full-stack developer</strong>.🚀<br/>
+  👋&nbsp; Hi there!  I'm a <strong>frond-end developer</strong>.🚀<br/>
  I graduated from the computer software department and completed the development academy. 💻 <br/>
  I am having fun developing programs that can give pleasure and convenience to others 😁, <br/>
 and I am working hard to continue to develop and grow. 🧗‍♂️
